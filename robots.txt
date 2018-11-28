@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Host: https://www.webdenim.io
+
+User-agent: Yandex
+Allow: /ru/
+Disallow: /
+Crawl-delay: 10
+
+Sitemap: https://www.webdenim.io/sitemap.xml
+Sitemap: https://www.webdenim.io/material-components-kit/sitemap.xml
